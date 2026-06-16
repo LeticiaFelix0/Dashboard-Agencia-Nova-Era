@@ -8,7 +8,7 @@ A análise foi realizada com dados de uma agência de marketing fictícia chamad
 
 ---
 ## 📸 Dashboard
-
+![Dashboard Agência Nova Era](imagens/dashboard_agencia_nova_era.png)
 
 ---
 
