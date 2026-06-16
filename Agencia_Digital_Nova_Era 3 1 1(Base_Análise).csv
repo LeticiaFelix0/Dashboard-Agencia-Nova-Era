@@ -1,0 +1,43 @@
+Base Análise;;;;;;;;;;;
+;;;;;;;;;;;
+RESULTADO ID;ID CAMPANHA;ID CLIENTE ;IMPRESSOES;CLIQUES;CONVERSOES;RECEITA R$;CUSTO R$;NOME CAMP.;NOME CLIENTE;SEGMENTO;CIDADE
+1;1;7;34312;1255;70;R$ 18.119,99;R$ 6.666,67;Black Friday 2023;Mercado Ágil;Saúde;Rio de Janeiro
+2;1;11;79342;5276;490;R$ 175.830,92;R$ 6.666,67;Black Friday 2023;Inovatech;Alimentação;Recife
+3;1;4;109230;1694;83;R$ 33.772,09;R$ 6.666,67;Black Friday 2023;Moda Express;Tecnologia;Brasília
+4;2;7;69742;4471;529;R$ 277.600,80;R$ 1.250,00;Verão em Alta;Mercado Ágil;Saúde;Rio de Janeiro
+5;2;3;36476;1335;87;R$ 44.695,16;R$ 1.250,00;Verão em Alta;EduMais;Varejo;Curitiba
+6;2;2;52638;1890;77;R$ 16.849,79;R$ 1.250,00;Verão em Alta;Clínica VidaBem;Educação;Belo Horizonte
+7;2;11;189187;10473;847;R$ 143.136,31;R$ 1.250,00;Verão em Alta;Inovatech;Alimentação;Recife
+8;3;6;80765;6401;537;R$ 198.482,65;R$ 6.666,67;Lançamento Produto;Sabor Certo;E-commerce;São Paulo
+9;3;15;189467;6195;599;R$ 65.343,55;R$ 6.666,67;Lançamento Produto;Cursos Now;Varejo;Curitiba
+10;3;13;18414;1221;73;R$ 8.352,52;R$ 6.666,67;Lançamento Produto;E-Store Plus;Saúde;Rio de Janeiro
+11;4;7;178519;7519;349;R$ 72.677,96;R$ 3.750,00;Reativação Base;Mercado Ágil;Saúde;Rio de Janeiro
+12;4;16;157159;7500;710;R$ 214.977,77;R$ 3.750,00;Reativação Base;Fashion Hub;Tecnologia;Brasília
+13;4;13;162969;6185;259;R$ 155.068,36;R$ 3.750,00;Reativação Base;E-Store Plus;Saúde;Rio de Janeiro
+14;4;15;143569;6395;611;R$ 322.469,62;R$ 3.750,00;Reativação Base;Cursos Now;Varejo;Curitiba
+15;5;6;110864;4070;486;R$ 172.597,78;R$ 1.000,00;Awareness Q1;Sabor Certo;E-commerce;São Paulo
+16;5;14;155024;10891;230;R$ 104.598,33;R$ 1.000,00;Awareness Q1;MedCenter;Educação;Belo Horizonte
+17;5;3;188706;13574;1290;R$ 618.776,03;R$ 1.000,00;Awareness Q1;EduMais;Varejo;Curitiba
+18;6;4;128940;1318;121;R$ 54.962,31;R$ 1.250,00;Performance Q2;Moda Express;Tecnologia;Brasília
+19;6;10;141225;8944;632;R$ 85.530,85;R$ 1.250,00;Performance Q2;Estilo Shop;Tecnologia;Brasília
+20;6;14;173918;5372;450;R$ 178.499,03;R$ 1.250,00;Performance Q2;MedCenter;Educação;Belo Horizonte
+21;6;3;50065;1811;65;R$ 37.428,29;R$ 1.250,00;Performance Q2;EduMais;Varejo;Curitiba
+22;7;11;15105;269;15;R$ 8.885,51;R$ 1.500,00;Branding Outono;Inovatech;Alimentação;Recife
+23;7;16;90612;2424;106;R$ 39.752,71;R$ 1.500,00;Branding Outono;Fashion Hub;Tecnologia;Brasília
+24;8;3;28143;2208;161;R$ 23.408,67;R$ 10.000,00;Conversão Direta;EduMais;Varejo;Curitiba
+25;8;16;182949;7916;593;R$ 129.172,86;R$ 10.000,00;Conversão Direta;Fashion Hub;Tecnologia;Brasília
+26;9;7;180361;6518;716;R$ 225.377,32;R$ 1.000,00;Leads Qualificados;Mercado Ágil;Saúde;Rio de Janeiro
+27;9;18;74986;1929;103;R$ 39.749,81;R$ 1.000,00;Leads Qualificados;Gourmet & Cia;E-commerce;São Paulo
+28;9;10;70323;3599;74;R$ 33.157,72;R$ 1.000,00;Leads Qualificados;Estilo Shop;Tecnologia;Brasília
+29;9;17;25433;661;73;R$ 38.471,76;R$ 1.000,00;Leads Qualificados;DevPro;Alimentação;Recife
+30;9;11;28574;1314;62;R$ 20.609,76;R$ 1.000,00;Leads Qualificados;Inovatech;Alimentação;Recife
+31;10;16;116708;2722;80;R$ 24.331,73;R$ 2.500,00;Remarketing Geral;Fashion Hub;Tecnologia;Brasília
+32;10;8;121038;4693;499;R$ 53.976,34;R$ 2.500,00;Remarketing Geral;Saúde Total;Educação;Belo Horizonte
+33;10;18;181299;14302;426;R$ 123.268,67;R$ 2.500,00;Remarketing Geral;Gourmet & Cia;E-commerce;São Paulo
+34;11;4;150584;6234;387;R$ 87.014,42;R$ 5.000,00;Campanha Natal;Moda Express;Tecnologia;Brasília
+35;11;8;75485;5375;148;R$ 74.025,39;R$ 5.000,00;Campanha Natal;Saúde Total;Educação;Belo Horizonte
+36;11;7;154264;2599;221;R$ 79.804,37;R$ 5.000,00;Campanha Natal;Mercado Ágil;Saúde;Rio de Janeiro
+37;11;18;13868;1079;121;R$ 63.079,94;R$ 5.000,00;Campanha Natal;Gourmet & Cia;E-commerce;São Paulo
+38;12;14;66032;4656;513;R$ 84.958,60;R$ 2.500,00;Promoção Aniversário;MedCenter;Educação;Belo Horizonte
+39;12;16;10565;834;38;R$ 18.533,24;R$ 2.500,00;Promoção Aniversário;Fashion Hub;Tecnologia;Brasília
+40;12;17;129277;3874;347;R$ 159.572,38;R$ 2.500,00;Promoção Aniversário;DevPro;Alimentação;Recife
