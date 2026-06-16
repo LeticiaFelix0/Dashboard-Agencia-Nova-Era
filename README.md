@@ -64,13 +64,13 @@ A análise foi realizada com dados de uma agência de marketing fictícia chamad
 
 ├── 📁 PowerBI
 
-│ └── Dashboard_Agencia_Nova_Era.pbix
+│ └── dashboard_agencia_nova_era.pbix
 
 │
 
 ├── 📁 Imagens
 
-│ └── dashboard_agencia_nova_era.png
+│ └── Dashboard_Agencia_Nova_Era.png
 
 │
 
